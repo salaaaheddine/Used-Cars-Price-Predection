@@ -1,0 +1,15 @@
+# Ignore temporary files
+*.tmp
+
+# Ignore compiled binaries
+*.exe
+*.dll
+
+# Ignore directories
+build/
+dist/
+
+
+.ipynb_checkpoints/
+
+cars_pred/
